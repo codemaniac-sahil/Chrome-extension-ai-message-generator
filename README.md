@@ -14,7 +14,7 @@ This Chrome extension assists users in generating replies to LinkedIn messages u
 
 ## Demo Video
 
-
+[Demo.mkv](https://github.com/codemaniac-sahil/Chrome-extension-ai-message-generator/blob/main/assets/2024-06-29%2011-49-36.mkv)
 ## Prerequisites
 
 - Node.js (v14 or later)
